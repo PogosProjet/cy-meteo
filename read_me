@@ -1,0 +1,7 @@
+to execute the program tape ./meteo.sh followed by the parameters you want, --help for help 
+
+-d , --avl, -r are not implemented 
+
+all the commmands implemented are fonctional 
+
+all the sort fonctions works but no graph can be create with gnuplot, gnuplot doesn't work
